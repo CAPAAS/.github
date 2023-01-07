@@ -1,3 +1,8 @@
-## CAPAA Software
+# CAPAA Software
+Пространство с открытыми исходными кодами продуктов и библиотек разработанных в CAPAA. 
 
-Workspace for opensource software developed at CAPAA.
+![](assets/images/capaa.png)
+
+## Лицензирование
+
+Опубликованные исходные коды CAPAA распространяется под открытой лицензией CAPAAL.
