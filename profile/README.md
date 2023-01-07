@@ -1,7 +1,7 @@
 # CAPAA Software
 Пространство с открытыми исходными кодами продуктов и библиотек разработанных в CAPAA. 
 
-![](assets/images/capaa.png)
+![](profile/assets/images/capaa.png)
 
 ## Лицензирование
 
